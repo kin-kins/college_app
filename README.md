@@ -1,5 +1,7 @@
 # cse_d
 
+The repo has been seen by [![HitCount](http://hits.dwyl.io/kin-kins/college_app.svg)](http://hits.dwyl.io/kin-kins/college_app) people
+
 Productivity
 
 ## Getting Started
